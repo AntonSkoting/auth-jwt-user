@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: slategray;
+    background-image: url(https://preview.redd.it/33p229oajlq41.jpg?auto=webp&s=0026fb2ea57f84d25ebe03ba2cbd2e66f9a5a2b7);
+    background-size: cover;
+}
+
+h1 {
+    margin-top: 10rem;
+    color: white;
+    text-shadow: black 0px 0px 5px;
+}
